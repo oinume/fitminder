@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/oinume/fitminder/backend/cli"
-	"github.com/oinume/lekcije/server/config"
+	"github.com/oinume/fitminder/backend/config"
 )
 
 func main() {

@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"net/http"
 	"sync"
+
+	"github.com/kelseyhightower/envconfig"
 )
 
 type Vars struct {
